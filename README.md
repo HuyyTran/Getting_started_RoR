@@ -1,4 +1,4 @@
-#Ref: 
+# Ref: 
 https://guides.rubyonrails.org/getting_started.html
 
 # Current progress: 
