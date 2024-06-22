@@ -1,3 +1,7 @@
+# NOTICE:
+- This branch (window11) is for window11 env
+- Main branch is working on MacOS env
+- Do not push this branch to main
 # Ref: 
 https://guides.rubyonrails.org/getting_started.html
 
